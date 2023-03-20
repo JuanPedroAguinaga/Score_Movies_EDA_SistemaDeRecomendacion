@@ -25,7 +25,7 @@ Se lograron cumplir la gran mayoria de los objetivos propuestos, de forma especi
 
 - [x] Deployment: [Link](https://score-movies-prueba8.onrender.com/docs)
 
-- [x] Video: [Link]()
+- [x] Video: [Link](https://www.youtube.com/watch?v=5wSFdeJkJ64)
 
 - [x] Exploraty Data Analysis-EDA: [Link](https://github.com/JuanPedroAguinaga/Score_Movies_EDA_SistemaDeRecomendacion/blob/main/EDA.ipynb)
 
@@ -33,7 +33,7 @@ Se lograron cumplir la gran mayoria de los objetivos propuestos, de forma especi
 
 - [ ] Deployment: 
 
-- [x] Video: [Link]
+- [x] Video: [Link](https://www.youtube.com/watch?v=5wSFdeJkJ64)
 
 
 ## Requerimientos
